@@ -1,0 +1,1 @@
+# hackintosh-monterey-gigabyte-h77-ds3h-F10
